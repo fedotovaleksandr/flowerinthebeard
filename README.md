@@ -1,4 +1,4 @@
-Sonata Standard Edition
+Thanks Sonata Standard Edition
 =======================
 
 What's inside?
